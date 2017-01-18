@@ -4,12 +4,7 @@ import sys
 
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
-
-
 from IntervalOptimizer import *
-
-
-
 from WidgetSpinBoxSuite import *
 from WidgetTableSuite import *
 
