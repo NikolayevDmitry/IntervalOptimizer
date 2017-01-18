@@ -2,7 +2,6 @@
 
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
-
 from interval import interval, inf, imath
 from PairList import *
 from numpy import *
